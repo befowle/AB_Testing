@@ -4,6 +4,7 @@ This project uses a dataset from Kaggle (and code created by codsyp). This datas
 
 
 The following graph shows the count of possible actions taken on the site: whether a banner is clicked, whether a banner is shown to a site’s user, and whether an order is placed.
+<img src = "images/action_count.png"> 
 
 From here, I created two binary features: 1) if a client ever clicked on a banner displayed to them and 2) if this click is the client's first conversion on the site.
 
