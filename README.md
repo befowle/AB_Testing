@@ -7,6 +7,6 @@ The following graph shows the count of possible actions taken on the site: wheth
 <img src = "images/action_count.png"> 
 
 From here, I created two binary features: 1) if a client ever clicked on a banner displayed to them and 2) if this click is the client's first conversion on the site.
-<img src = "num_conversions.png"> 
+<img src = "images/num_conversions.png"> 
 
 This dataset has a time component, captured in a format year-month-date hour:minute:second. I binned the data to gain more insight on how time impacts client behavior.
